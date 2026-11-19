@@ -1,0 +1,3 @@
+sudo yum update 
+sudo yum install nodejs git -y
+sudo yum install npm -y
